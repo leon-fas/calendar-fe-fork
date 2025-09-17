@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1757921071411,
+      "tag": "0000_initial-schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1758009374830,
+      "tag": "0001_add_bookings_locations",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1758046233920,
+      "tag": "0002_add_color_to_rooms",
+      "breakpoints": true
+    }
+  ]
+}
